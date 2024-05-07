@@ -85,10 +85,12 @@
     <!-- /contact1 -->
     <div class="map-iframe">
         <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.7863926115083!2d2.3409418140937945!3d6.421486026124061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1024a9ba125fb277%3A0x7880ff9d4f167b79!2sCampus%20Abomey%20Calavi!5e0!3m2!1sfr!2sbj!4v1616164735771!5m2!1sfr!2sbj"
-                width="100%" height="400" style="border:0px;" frameborder="0" allowfullscreen="" >
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.5775067716113!2d2.3338509756170214!3d6.448251493543132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1024a9d76bd8c417%3A0xbadef07d88a34c71!2sPHARMACIE%20AITCHEDJI%20SEMINAIRE!5e0!3m2!1sfr!2sbj!4v1715103267008!5m2!1sfr!2sbj"
+                width="100%" height="400" style="border:0;" frameborder="0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
         </iframe>
     </div>
     <!-- //contact block -->
 
 @endsection
+
+

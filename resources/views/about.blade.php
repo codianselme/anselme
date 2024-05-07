@@ -33,10 +33,7 @@
                     <div class="col-lg-8 mt-lg-0 mt-5">
                         <h3 class="title-big">Bienvenue sur mon profil</h3>
                         {{--<h5 class="title-small mb-2">TRAINING</h5>--}}
-                        <p class="mt-4" style="text-align: justify">Je suis un ingénieur informatique polyvalent avec une passion pour le développement web et mobile, l'analyse de données et le machine learning.
-                            <br> Avec quatre (04) ans d'expérience dans le domaine du développement informatique, j'ai travaillé sur de nombreux projets allant de la création de sites
-                            et applications web dynamiques aux applications mobiles interactives. Je suis constamment à l'affût des dernières avancées technologiques et des meilleures
-                            pratiques pour offrir des solutions innovantes et efficaces à mes clients.
+                        <p class="mt-4" style="text-align: justify">Je suis un professionnel de l'informatique doté d'une expertise diversifiée, axée sur le développement web et mobile, l'analyse de données et le machine learning. Avec {{ $nombreAnnees }} années de pratique dans le domaine du développement informatique, j'ai participé à une variété de projets, depuis la conception de sites web dynamiques jusqu'à la création d'applications mobiles interactives. Ma curiosité insatiable pour les dernières avancées technologiques et les méthodes les plus performantes me permet de proposer des solutions innovantes et efficaces à mes clients.
                         </p>
                         <div class="my-info mt-4">
                             <div class="single-info"><span>Nom & Prénom:</span>
@@ -55,6 +52,7 @@
                         <div class="my-social mt-lg-5 mt-4">
                             <a href="#download" class="btn btn-style btn-primary">Télécharger mon CV</a>
                             <ul class="social m-0 p-0">
+                                <li><a href="https://github.com/codianselme"><span class="fa fa-github"></span></a></li>
                                 <li><a href="https://twitter.com/@AkpoviAnselme"><span class="fa fa-twitter"></span></a></li>
                                 <li><a href="#instagram"><span class="fa fa-instagram"></span></a></li>
                                 <li><a href="https://facebook.com/https://www.facebook.com/anselmev1/"><span class="fa fa-facebook-official"></span></a></li>
@@ -73,10 +71,7 @@
         <div class="container py-lg-5 py-3">
             <h5 class="title-small mb-2">MES CENTRE D'INTÉRÊTS</h5>
             {{--<h3 class="title-big mb-4">test </h3>--}}
-            <p style="text-align: justify">Passionné par l'innovation technologique, je m'intéresse au développement web et mobile, à la data science, et au machine learning.
-                Mon intérêt pour le développement mobile, sur Android et avec Flutter, m'incite à explorer des approches novatrices.
-                La data science et le machine learning suscitent mon enthousiasme, particulièrement pour l'extraction d'insights et la création de modèles prédictifs.
-                Ces domaines convergent dans ma quête d'apprentissage, enrichissant ainsi mon parcours professionnel.
+            <p style="text-align: justify">Je suis passionné par le domaine informatique, avec un intérêt marqué pour le développement web et mobile, la data science et le machine learning. Ma spécialisation dans le développement me pousse à explorer des approches innovantes. La data science et le machine learning captivent mon intérêt, notamment pour l'extraction d'insights et la création de modèles prédictifs. Ces domaines convergent dans ma quête d'expertise, enrichissant ainsi mon parcours professionnel.
             </p>
             <div class="row features-w3pvt-main mt-5 pt-md-3" id="features">
                 <div class="col-lg-4 col-md-6 feature-gird">
@@ -87,16 +82,13 @@
                             </div>
                         </div>
                         <div class="col-md-10 col-10 featured_grid_right_info">
-                            <h4><a class="link-hny" href="#url">Le dev web et mobile</a></h4>
+                            <h4><a class="link-hny" href="#url">Développement web et mobile</a></h4>
                             <p style="text-align: justify">
-                                Je m'épanouis dans le développement web en utilisant une combinaison dynamique de technologies,
-                                notamment PHP avec les frameworks Laravel et Livewire, et Python avec le framework Django.
-                                Cette expertise me permet de concevoir des applications web robustes et interactives, offrant
-                                des solutions flexibles et performantes. Passionné par le développement mobile, j'utilise le
-                                langage Dart avec le framework Flutter, créant ainsi des applications mobiles fluides et
+                                Je m'épanouis dans le développement web fullstack en utilisant une combinaison dynamique de technologies,
+                                notamment les frameworks Laravel, Livewire, Alpine JS et Django.Cette expertise me permet de concevoir des 
+                                applications web robustes et interactives, offrant des solutions flexibles et performantes. En developpement 
+                                mobile, j'utilise le langage Dart avec le framework Flutter, créant ainsi des applications mobiles fluides et
                                 réactives, garantissant une expérience utilisateur homogène sur différentes plateformes.
-                                Mon engagement continu dans ces domaines témoigne de ma volonté d'explorer des technologies
-                                variées et de proposer des solutions innovantes aux défis actuels.
                             </p>
                         </div>
                     </div>
@@ -109,15 +101,13 @@
                             </div>
                         </div>
                         <div class="col-md-10 col-10 featured_grid_right_info">
-                            <h4><a class="link-hny" href="#url">L'administration Systeme </a></h4>
-                            <p style="text-align: justify">Mon intérêt pour l'administration système et serveur se manifeste pleinement à travers
-                                ma passion pour les environnements Linux. Fort de compétences approfondies dans l'administration des
-                                systèmes Linux, j'ai développé une expertise solide dans la configuration, la maintenance et
-                                l'optimisation de serveurs basés sur cette plateforme. Mon expérience inclut la gestion efficiente
-                                des ressources, la sécurisation des systèmes, ainsi que la résolution proactive des problèmes,
-                                assurant ainsi la stabilité et la performance des serveurs. L'administration des serveurs représente
-                                pour moi un défi stimulant, témoignant de mon engagement envers l'efficacité opérationnelle, la
-                                sécurité et la disponibilité des systèmes.</p>
+                            <h4><a class="link-hny" href="#url">Administration & Déploiement</a></h4>
+                            <p style="text-align: justify">Maîtrisant l'administration de bases de données MySQL, je suis capable de gérer efficacement 
+                                les données, assurant ainsi leur intégrité et leur disponibilité. De plus, je possède une expertise solide en déploiement 
+                                de sites web sur des serveurs VPS Linux, ce qui inclut la configuration et la sécurisation des environnements de production. 
+                                En outre, mes compétences en administration système Linux me permettent de maintenir des serveurs robustes et performants, 
+                                assurant un fonctionnement optimal des applications et des services hébergés.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -130,12 +120,11 @@
                         </div>
                         <div class="col-md-10 col-10 featured_grid_right_info">
                             <h4><a class="link-hny" href="#url">L'intelligence Artificiele<br> </a></h4>
-                            <p style="text-align: justify">Mon enthousiasme pour l'intelligence artificielle (IA) et la data science découle de ma fascination pour
-                                l'extraction d'informations significatives à partir des données. J'ai exploré ces domaines pour acquérir des compétences
-                                approfondies, travaillant sur des projets de data science impliquant l'analyse de jeux de données complexes et la mise
-                                en œuvre d'algorithmes statistiques. Parallèlement, l'intelligence artificielle m'inspire, en particulier le machine
-                                learning, où j'ai développé une expérience pratique dans la création de modèles prédictifs, incluant la sélection et
-                                le prétraitement des données, l'entraînement, l'évaluation et l'optimisation des performances.</p>
+                            <p style="text-align: justify">Mon intérêt pour l'intelligence artificielle (IA) et la data science découle de ma fascination pour 
+                                l'analyse de données. J'ai acquis une expertise en explorant ces domaines à travers des projets de data science impliquant l'analyse 
+                                de jeux de données complexes et l'implémentation d'algorithmes statistiques. Je suis particulièrement passionné par le machine learning, 
+                                où j'ai développé une expérience pratique dans la création de modèles prédictifs, y compris la sélection des données, l'entraînement et 
+                                l'optimisation des performances.</p>
                         </div>
                     </div>
                 </div>
@@ -152,9 +141,9 @@
                 <div class="content-info-in row">
                     <div class="content-gd col-lg-4">
                         <h3 class="title-big mb-4">Mes Technologies</h3>
-                        <p style="text-align: justify">En tant que développeur passionné, je maîtrise PHP, Python, Laravel, Livewire, Django, Dart, Flutter,
-                            et l'administration système Linux. Cette diversité me confère la flexibilité nécessaire pour créer des
-                            solutions innovantes et performantes en développement web et mobile.
+                        <p style="text-align: justify">En tant que développeur passionné, 
+                            j'ai des connaissance dans les languages suivant : HTML, CSS, JavaScript, PHP, Python, Dart, C++
+                            J'utilise les framework suivant : Laravel, Livewire, Alpine JS, Django, Flutter, Bootstrap, Tailwind.
                         </p>
                     </div>
                     <div class="content-gd col-lg-4">
@@ -184,7 +173,7 @@
                             </div>
                         </div>
                         <div class="progress-info mb-0">
-                            <h6 class="progress-tittle">MySQL | MariaDB | Postgresql | SQLite</h6>
+                            <h6 class="progress-tittle">MySQL | Postgresql | SQLite</h6>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 60%"
                                      aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
@@ -194,7 +183,7 @@
                     </div>
                     <div class="content-gd col-lg-4">
                         <div class="progress-info">
-                            <h6 class="progress-tittle">API REST | Développement d'API personnalisée
+                            <h6 class="progress-tittle">API REST | Développement d'API
                             </h6>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 50%"

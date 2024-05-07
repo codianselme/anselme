@@ -53,7 +53,28 @@ class AnselmeController extends Controller
     public function about()
     {
         $currentPage = 'about';
-        return view('about', compact('currentPage'));
+
+        // Créez une instance de Carbon pour l'année 2018
+        $date2018 = Carbon::createFromDate(2018, 1, 1); 
+
+        // Créez une instance de Carbon pour l'année courante
+        $dateCourante = Carbon::now();
+
+        // Calculez la différence en années
+        $nombreAnnees = $date2018->diffInYears($dateCourante);
+
+
+
+        // Créer une instance de NumberToWords
+        // $numberToWords = new NumberToWords();
+
+        // Obtenir un convertisseur de nombres en mots
+        // $converter = $numberToWords->getConverter('fr');
+
+        // Convertir le nombre en mots
+        // $nombreAnneesEnLettres = $converter->toWords($nombreAnnees);
+
+        return view('about', compact('currentPage', 'nombreAnnees'));
     }
 
     public function sendMessage(Request $request)

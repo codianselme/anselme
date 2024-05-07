@@ -47,21 +47,16 @@
                     <div class="col-lg-8 mt-lg-0 mt-5">
                         <h5 class="title-small mb-2">Qui suis-je ?</h5>
                         <h3 class="title-big">Je m'appelle Anselme Victor AKPOVI.</h3>
-                        <p class="mt-4" style="text-align: justify">Je suis un ingénieur en informatique et un developpeur Web et mobile. Passionné par les mathématiques et les nouvelles technologies, j'ai entrepris mon parcours académique après l'obtention de mon baccalauréat
-                            série C en 2012. Inscrit dans un premier temps à la faculté des sciences et techniques (FAST - UAC), j'y ai poursuivi mes études pendant deux ans avant de m'inscrire au cycle ingénieur de conception,
-                            grade master, à l'École Polytechnique d'Abomey-Calavi (Université d'Abomey-Calavi - UAC) au Bénin de 2014 à 2019.</p>
-                        <p class="mt-4" style="text-align: justify">
-                            À la fin de mes études, j'ai consolidé ma formation par le biais de stages professionnels enrichissants. Par la suite, j'ai choisi de mettre en pratique mes connaissances en travaillant
-                            en tant que développeur indépendant. Actuellement, je contribue activement au sein d'une structure spécialisée dans la transformation digitale, où j'exerce en tant que développeur web et mobile
-                            en contrat à durée déterminée (CDD). Cette expérience me permet d'appliquer mes compétences de manière concrète tout en restant à la pointe des évolutions technologiques dans le domaine.
+                        <p class="mt-4" style="text-align: justify">Ingénieur en informatique et développeur Web et mobile, j'ai une passion pour les maths et les nouvelles technologies. Après mon bac en 2012, j'ai commencé à la FAST - UAC avant de rejoindre l'École Polytechnique d'Abomey-Calavi, où j'ai obtenu mon diplôme en 2019.
                         </p>
-                        <p class="mt-4" style="text-align: justify">Au fil du temps, j'ai contribué significativement à la conception et au développement de plusieurs solutions
-                            informatiques innovantes. Mon expérience inclut la création de applications web dynamiques, le développement d'applications mobiles interactives et la mise
-                            en œuvre de solutions d'analyse de données. Ces défis ont renforcé mes compétences techniques et ma capacité à trouver des solutions efficaces.</p>
+                        <p class="mt-4" style="text-align: justify">
+                            Après mes études, j'ai renforcé mes compétences par des stages professionnels et j'ai opté pour le travail en tant que développeur indépendant. Actuellement, je suis engagé dans une entreprise axée sur la transformation digitale en tant que développeur web et mobile en CDD, ce qui me permet d'appliquer mes compétences tout en restant à jour avec les avancées technologiques.
+                        </p>
+                        <p class="mt-4" style="text-align: justify">J'ai contribué à la conception et le développement de solutions informatiques novatrices. J'ai créé des applications web dynamiques, des apps mobiles interactives, et mis en place des solutions d'analyse de données. Ces expériences ont aiguisé mes compétences techniques et ma capacité à trouver des solutions efficaces.
+                        </p>
 
-                        <p style="text-align: justify">
-                            Bénéficiaire de la Bourse d'Excellence Vallet de 2010 à 2014, cette opportunité a grandement contribué à ma réussite académique. Cette bourse m'a permis de me consacrer pleinement à mes études en allégeant
-                            le poids financier des frais universitaires. Grâce à ce soutien financier, j'ai pu accéder à des ressources supplémentaires, participer à des événements académiques et investir dans du matériel spécialisé, renforçant ainsi ma formation.
+                        <p class="mt-4" style="text-align: justify">
+                            En tant que récipiendaire de la Bourse d'Excellence Vallet de 2010 à 2014, j'ai bénéficié d'un soutien financier précieux qui a largement contribué à ma réussite académique. Cette bourse m'a permis de me concentrer pleinement sur mes études en réduisant le fardeau financier des frais universitaires. Grâce à cette assistance, j'ai pu accéder à des ressources supplémentaires, participer à des événements académiques et investir dans du matériel spécialisé, ce qui a renforcé ma formation.
                         </p>
                         <a href="#download" class="btn btn-style btn-primary mt-lg-5 mt-4">Télécharger mon CV</a>
                     </div>
@@ -81,7 +76,7 @@
                 le défi de donner vie à vos projets. En travaillant en étroite collaboration, nous pouvons créer des solutions qui dépassent vos attentes et répondent parfaitement à vos besoins.
                 N'hésitez pas à partager vos idées, et ensemble, nous les concrétiserons.</p>
             <div class="mt-5">
-                <a href="#download" class="btn btn-style btn-primary">Télécharger mon résumé</a>
+                <a href="#download" class="btn btn-style btn-primary">Télécharger mon CV</a>
             </div>
         </div>
     </div>
@@ -103,14 +98,14 @@
                                             <span class="fa fa-pencil-square-o"></span>
                                         </div>
                                         <h4 class="number">01</h4>
-                                        <h4><a href="https://master.keyladistribution.com/">Master Digit</a></h4>
+                                        <h4><a href="https://master.dadigitall.com/">Master Digit</a></h4>
                                         <p style="text-align: justify"> J'ai élaboré une plateforme web et mobile visant à digitaliser l'ensemble des processus des Master Distributeurs dans
                                             le domaine du réseau de téléphonie mobile. La version web a été réalisée avec le framework Laravel, tandis que la version mobile a été conçue en
                                             utilisant la technologie Flutter. Ce projet a permis de moderniser et d'optimiser les opérations des Master Distributeurs, offrant ainsi une
-                                            solution intégrée et efficace pour une gestion plus fluide et performante des activités liées à l'entreprise.
-                                            <br><br><br><br><br>
+                                            solution intégrée et efficace pour une gestion plus fluide et performante de leurs activités.  <br>
+                                            <br>
                                         </p>
-                                        <a href="https://master.keyladistribution.com/" class="read">Voir Plus</a>
+                                        {{-- <a href="https://master.dadigitall.com/" class="read">Voir Plus</a> --}}
                                     </div>
                                 </div>
                             </div>
@@ -122,13 +117,13 @@
                                             <span class="fa fa-laptop"></span>
                                         </div>
                                         <h4 class="number">02</h4>
-                                        <h4><a href="https://garage.keyladistribution.com">Garage Digit</a></h4>
-                                        <p style="text-align: justify">J'ai participé à la conception de la plateforme web Garage Digit destinée à la digitalisation complète des processus au sein des garages automobiles.
-                                            Cette solution englobe plusieurs modules essentiels, notamment un module d'enregistrement des véhicules à leur arrivée, un module de diagnostic,
-                                            un module dédié aux travaux effectués dans les ateliers, un module de paiement, ainsi que des rapports détaillés. Chacun de ces modules a été
-                                            développé dans le but d'optimiser l'efficacité opérationnelle des garages, offrant ainsi une solution complète et intuitive pour la gestion
-                                            transparente et performante de l'ensemble des activités liées à l'entretien automobile.</p>
-                                        <a href="https://garage.keyladistribution.com" class="read">Voir Plus</a>
+                                        <h4><a href="https://garage.dadigitall.com">Garage Digit</a></h4>
+                                        <p style="text-align: justify">J'ai contribué à la conception de Garage Digit, une plateforme web visant à numériser entièrement les processus des garages 
+                                            automobiles. Elle comprend plusieurs modules couvrant de l'arrivée à la sortie du véhicule, incluant diagnostics, tâches et paiements, y compris l'historique 
+                                            et les différents rapports. Chaque module vise à optimiser l'efficacité opérationnelle des garages, offrant une solution complète et intuitive pour une gestion 
+                                            transparente et performante des activités d'entretien automobile. <br> <br>
+                                        </p>
+                                        {{-- <a href="https://garage.dadigitall.com" class="read">Voir Plus</a> --}}
                                     </div>
                                 </div>
                             </div>
@@ -140,13 +135,13 @@
                                             <span class="fa fa-pencil-square-o"></span>
                                         </div>
                                         <h4 class="number">03</h4>
-                                        <h4><a href="https://akimboutique.yes.bj/">Akim Store</a></h4>
-                                        <p style="text-align: justify">La plateforme se décline en deux versions : une version web développée en Laravel - Livewire et une version mobile
-                                            développée en Flutter. Son objectif est de gérer à la fois une boutique de vente d'articles et les tontines des clients associés à la boutique.
-                                            Cette solution complète comprend plusieurs modules, notamment ceux dédiés à l'approvisionnement, à la vente, à la gestion des tontines,
-                                            ainsi qu'à la génération de rapports. Chacun de ces modules a été soigneusement conçu pour assurer une gestion efficace et transparente des
-                                            activités de la boutique, offrant ainsi une expérience optimale tant pour les gérants que pour les clients.</p>
-                                        <a href="https://akimboutique.yes.bj/" class="read">Voir plus</a>
+                                        <h4><a href="https://akimstore.xyz/">Akim Store</a></h4>
+                                        <p style="text-align: justify">La plateforme se décline en deux versions : une web, développée en Laravel - Livewire - Alpine JS, et une mobile, développée en Flutter. 
+                                            Elle vise à gérer à la fois une boutique et les tontines des clients affiliés. Cette solution comprend plusieurs modules, notamment pour l'approvisionnement, 
+                                            la vente, la gestion des tontines et les rapports. Chaque module est bien conçu pour garantir une gestion fluide et transparente des activités 
+                                            de la boutique, offrant ainsi une expérience optimale tant aux gérants qu'aux clients.
+                                        </p>
+                                        {{-- <a href="https://akimstore.xyz/" class="read">Voir plus</a> --}}
                                     </div>
                                 </div>
                             </div>
@@ -159,11 +154,10 @@
                                         </div>
                                         <h4 class="number">04</h4>
                                         <h4><a href="#">GestPallais</a></h4>
-                                        <p style="text-align: justify">Il s'agit d'une plateforme web conçue pour faciliter la gestion des réservations du palais des congrès de Cotonou. Les particuliers et entreprises
-                                            souhaitant réserver une salle avec des caractéristiques spécifiques telles que la sonorisation, la capacité d'accueil, et la climatisation peuvent
-                                            aisément effectuer leur réservation en fonction de leur événement ou de leurs besoins organisationnels. Cette plateforme offre une solution pratique
-                                            et efficace pour simplifier le processus de réservation et assurer une planification optimale des événements au sein du palais des congrès.</p>
-                                        <a href="#" class="read">Voir Plus</a>
+                                        <p style="text-align: justify">Une plateforme web simplifie la gestion des réservations des salles au palais des congrès de Cotonou. Particuliers et entreprises 
+                                            peuvent réserver des salles avec des caractéristiques spécifiques, telles que la sonorisation et la climatisation, pour leurs événements. Cette solution pratique 
+                                            optimise la planification des événements au palais des congrès.</p>
+                                        {{-- <a href="#" class="read">Voir Plus</a> --}}
                                     </div>
                                 </div>
                             </div>
@@ -176,10 +170,11 @@
                                         </div>
                                         <h4 class="number">05</h4>
                                         <h4><a href="#">Bénin Concert</a></h4>
-                                        <p style="text-align: justify">Il s'agit d'une plateforme innovante, à la fois web et mobile, conçue pour révolutionner la gestion des concerts au Bénin. Cette solution complète vise à simplifier et à dynamiser l'organisation d'événements musicaux en offrant une interface conviviale aux organisateurs, artistes et participants. La version web, développée avec Laravel pour une robustesse optimale, assure une gestion efficace des données et des transactions, tandis que la version mobile, créée avec Flutter, offre une expérience utilisateur fluide, accessible à tout moment et en tout lieu.</p>
-                                        {{--<p style="text-align: justify">L'un des principaux modules de cette plateforme est dédié à la planification des concerts, permettant aux organisateurs de créer et de personnaliser leurs événements. Du choix du lieu aux détails logistiques tels que la sonorisation et l'éclairage, chaque aspect peut être coordonné de manière transparente. Les artistes peuvent également utiliser la plateforme pour promouvoir leurs performances, interagir avec leur public et faciliter la vente de billets en ligne.</p>--}}
-                                        {{--<p style="text-align: justify">De plus, la plateforme intègre des fonctionnalités de billetterie électronique, simplifiant le processus d'achat et d'inscription pour les participants. Les rapports générés par la plateforme offrent aux organisateurs une vision claire des performances de leurs événements, tandis que les retours des participants peuvent être recueillis pour améliorer continuellement l'expérience concert. Cette initiative vise à stimuler l'industrie musicale au Bénin en facilitant la mise en place d'événements de qualité et en renforçant l'interaction entre les artistes et leur public.</p>--}}
-                                        <a href="#" class="read">Voir Plus</a>
+                                        <p style="text-align: justify">Il s'agit d'une plateforme innovante, à la fois web et mobile, conçue pour révolutionner la gestion des concerts au Bénin. 
+                                            Cette solution complète vise à simplifier et à dynamiser l'organisation d'événements musicaux en offrant une interface conviviale aux organisateurs, 
+                                            artistes et participants. La version web, développée avec Laravel - livewire -Alpine JS pour une robustesse optimale, assure une gestion efficace 
+                                            des données et des transactions</p>
+                                        {{-- <a href="#" class="read">Voir Plus</a> --}}
                                     </div>
                                 </div>
                             </div>
@@ -192,10 +187,56 @@
                                         </div>
                                         <h4 class="number">06</h4>
                                         <h4><a href="#">Tx MoMo</a></h4>
-                                        <p style="text-align: justify">L'application PAS (Paiement Automatisé et Simplifié) représente une solution novatrice, avec sa composante web dédiée à la gestion des abonnements et sa version mobile conçue pour offrir aux clients une automatisation complète des opérations liées aux transactions via mobile money. La partie web, développée avec une technologie moderne telle que Django, offre une interface conviviale pour la gestion fluide des abonnements. Les utilisateurs peuvent facilement s'abonner, gérer leurs informations personnelles et suivre l'état de leur abonnement grâce à des fonctionnalités intuitives.</p>
-                                        {{--<p style="text-align: justify">La version mobile de l'application PAS, développée avec une technologie comme React Native pour une expérience utilisateur homogène, révolutionne la manière dont les transactions mobile money sont effectuées. Les clients bénéficient d'une automatisation complète, de la consultation du solde à l'envoi d'argent en passant par le paiement de factures, le tout au bout de leurs doigts. Cette application simplifie le processus de paiement en offrant une solution centralisée et conviviale pour les utilisateurs de mobile money, contribuant ainsi à l'efficacité et à la facilité d'utilisation dans le quotidien des clients.</p>--}}
-                                        {{--<p style="text-align: justify">Un aspect clé de cette application est sa sécurité renforcée. Les transactions mobiles sont traitées de manière sécurisée, garantissant la confidentialité des informations financières des utilisateurs. De plus, des fonctionnalités de suivi des transactions et de génération de rapports sont intégrées pour permettre une gestion transparente et efficace, aussi bien pour les abonnements que pour les transactions mobile money. En combinant la commodité de la gestion d'abonnements en ligne avec l'automatisation des transactions mobiles, l'application PAS offre une solution complète et fiable pour les abonnés et les utilisateurs de services financiers mobiles.</p>--}}
-                                        <a href="#" class="read">Voir Plus</a>
+                                        <p style="text-align: justify">L'application PAS (Paiement Automatisé et Simplifié) innove avec sa composante web pour la gestion des abonnements et sa 
+                                            version mobile, offrant une automatisation complète des achats virtuels et des transactions via mobile money aux clients. La version web gère les 
+                                            abonnements clients et fournit divers rapports, tandis que la version mobile est destinée aux clients pour leurs transactions.
+                                        </p>
+                                        {{-- <a href="#" class="read">Voir Plus</a> --}}
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="card">
+                                    <div class="box-wrap">
+                                        <div class="icon">
+                                            <span class="fa fa-area-chart"></span>
+                                        </div>
+                                        <h4 class="number">07</h4>
+                                        <h4><a href="#">PDRDM-IA</a></h4>
+                                        <p style="text-align: justify">Il s'agit d'une plateforme web en cours de developpement à l'aide des technologies Laravel - Livewire et Alpine JS. Il s'agit 
+                                            d'une plateforme piloté par une IA offrant une gamme étendue de fonctionnalités pour les entrepreneurs, les professionnels 
+                                            et les apprenants. 
+                                        </p>
+                                        {{-- <a href="#" class="read">Voir Plus</a> --}}
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="card">
+                                    <div class="box-wrap">
+                                        <div class="icon">
+                                            <span class="fa fa-area-chart"></span>
+                                        </div>
+                                        <h4 class="number">08</h4>
+                                        <h4><a href="#">Lotto IA</a></h4>
+                                        <p style="text-align: justify">Il s'agit d'une programme basé sur l'IA exploitant les capacités de l'intelligence artificielle pour fournir des prévisions sur les jeux de lotterie. 
+                                        </p>
+                                        {{-- <a href="#" class="read">Voir Plus</a> --}}
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="card">
+                                    <div class="box-wrap">
+                                        <div class="icon">
+                                            <span class="fa fa-area-chart"></span>
+                                        </div>
+                                        <h4 class="number">09</h4>
+                                        <h4><a href="#">Lotto IA</a></h4>
+                                        <p style="text-align: justify">Ce programme, développé en Python, offre une simulation détaillée de la propagation d'une épidémie. Après la collecte minutieuse des données, celles-ci 
+                                            sont exploitées dans un algorithme de machine learning afin de générer des prévisions précises.
+                                        </p>
+                                        {{-- <a href="#" class="read">Voir Plus</a> --}}
                                     </div>
                                 </div>
                             </div>
@@ -256,7 +297,7 @@
                             <div class="testimonial-content">
                                 <div class="testimonial">
                                     <blockquote>
-                                        <q>Anselme Victor AKPOVI est un atout précieux pour notre équipe de développement. Son expertise exceptionnelle en tant que développeur web et mobile a considérablement amélioré notre capacité à livrer des projets de haute qualité dans les délais impartis. Sa créativité et son engagement envers l'excellence ont été des facteurs clés dans le succès de plusieurs initiatives stratégiques de l'entreprise.</q>
+                                        <q>Anselme Victor AKPOVI est un atout précieux pour notre équipe de développement. Son expertise exceptionnelle en tant que développeur web et mobile a considérablement amélioré notre capacité à livrer des projets de haute qualité dans les délais impartis.</q>
                                     </blockquote>
                                     <div class="testi-des">
                                         <div class="test-img"><img src="{{ asset('assets/images/team1.jpg') }}" class="img-fluid" alt="client-img">
@@ -273,7 +314,7 @@
                             <div class="testimonial-content">
                                 <div class="testimonial">
                                     <blockquote>
-                                        <q>Travailler aux côtés d'Anselme Victor AKPOVI est une expérience enrichissante. Sa collaboration proactive et sa volonté constante de partager ses connaissances ont contribué à renforcer notre équipe. En tant que collègue, il incarne l'esprit d'équipe et la recherche de solutions novatrices..</q>
+                                        <q>Travailler aux côtés d'Anselme Victor AKPOVI est une expérience enrichissante. Sa collaboration proactive et sa volonté constante de partager ses connaissances ont contribué à renforcer notre équipe. En tant que collègue, il incarne l'esprit d'équipe.</q>
                                     </blockquote>
                                     <div class="testi-des">
                                         <div class="test-img"><img src="{{ asset('assets/images/team2.jpg') }}" class="img-fluid" alt="client-img">
@@ -386,7 +427,7 @@
             <div class="container py-lg-5">
                 <div class="middle-section text-center">
                     <div class="section-width">
-                        <h3 class="title-big">Je peux donner à votre entreprise un nouveau départ créatif dès maintenant ! Engagez-moi pour votre projet incroyable !</h3>
+                        <h3 class="title-big">Je peux donner à votre entreprise un nouveau départ créatif dès maintenant ! Engagez-moi pour votre projet !</h3>
                         <p class="mt-3" style="text-align: justify">Fort d'une passion inébranlable pour le développement web et mobile, je suis prêt à insuffler une nouvelle vie créative à votre entreprise.
                             Avec un bagage solide en ingénierie informatique et une expérience variée tant en entreprise que en tant que développeur indépendant, je suis confiant dans ma
                             capacité à transformer vos idées en des solutions technologiques innovantes. Mon engagement envers l'excellence, ma créativité sans limite et ma volonté de
@@ -427,8 +468,8 @@
         <div class="container py-3">
             <h6 class="title-small">Prendre contact</h6>
             <h3 class="title-big mb-md-5 mb-4">Commençons un projet ! Embauchez-moi.</h3>
-            <a href="{{ route("contact") }}" class="btn btn-style btn-primary mr-2">Embauchez-moi </a>
-            <a href="{{ route("contact") }}" class="btn btn-style btn-outline-primary">Prendre contact</a>
+            {{-- <a href="{{ route("contact") }}" class="btn btn-style btn-primary mr-2">Embauchez-moi </a> --}}
+            <a href="{{ route("contact") }}" class="btn btn-style btn-outline-primary">Contact-Moi</a>
         </div>
     </section>
     <!-- //freelance hire me -->
