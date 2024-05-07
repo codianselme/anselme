@@ -50,7 +50,7 @@
                             </div>
                         </div>
                         <div class="my-social mt-lg-5 mt-4">
-                            <a href="#download" class="btn btn-style btn-primary">Télécharger mon CV</a>
+                            <a href="{{ asset('assets/files/cv.pdf') }}" class="btn btn-style btn-primary">Télécharger mon CV</a>
                             <ul class="social m-0 p-0">
                                 <li><a href="https://github.com/codianselme"><span class="fa fa-github"></span></a></li>
                                 <li><a href="https://twitter.com/@AkpoviAnselme"><span class="fa fa-twitter"></span></a></li>

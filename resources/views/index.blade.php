@@ -58,7 +58,7 @@
                         <p class="mt-4" style="text-align: justify">
                             En tant que récipiendaire de la Bourse d'Excellence Vallet de 2010 à 2014, j'ai bénéficié d'un soutien financier précieux qui a largement contribué à ma réussite académique. Cette bourse m'a permis de me concentrer pleinement sur mes études en réduisant le fardeau financier des frais universitaires. Grâce à cette assistance, j'ai pu accéder à des ressources supplémentaires, participer à des événements académiques et investir dans du matériel spécialisé, ce qui a renforcé ma formation.
                         </p>
-                        <a href="#download" class="btn btn-style btn-primary mt-lg-5 mt-4">Télécharger mon CV</a>
+                        <a href="{{ asset('assets/files/cv.pdf') }}" class="btn btn-style btn-primary mt-lg-5 mt-4">Télécharger mon CV</a>
                     </div>
                 </div>
             </div>
@@ -76,7 +76,7 @@
                 le défi de donner vie à vos projets. En travaillant en étroite collaboration, nous pouvons créer des solutions qui dépassent vos attentes et répondent parfaitement à vos besoins.
                 N'hésitez pas à partager vos idées, et ensemble, nous les concrétiserons.</p>
             <div class="mt-5">
-                <a href="#download" class="btn btn-style btn-primary">Télécharger mon CV</a>
+                <a href="{{ asset('assets/files/cv.pdf') }}" class="btn btn-style btn-primary">Télécharger mon CV</a>
             </div>
         </div>
     </div>
