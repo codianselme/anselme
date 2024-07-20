@@ -117,6 +117,14 @@ class AnselmeController extends Controller
         }
     }
 
+
+    public function portfolio()
+    {
+        $currentPage = 'portfolio';
+        return view('portfolio', compact('currentPage'));
+    }
+
+
     /**
      * Show the form for creating a new resource.
      *

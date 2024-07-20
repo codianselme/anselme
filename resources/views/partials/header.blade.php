@@ -20,6 +20,9 @@
                     <li class="nav-item @if($currentPage === 'index') active @endif">
                         <a class="nav-link" href="{{route('index')}}">Accueil</a>
                     </li>
+                    <li class="nav-item @if($currentPage === 'portfolio') active @endif">
+                        <a class="nav-link" href="{{route('portfolio')}}">Portfolio</a>
+                    </li>
                     <li class="nav-item @if($currentPage === 'about') active @endif">
                         <a class="nav-link" href="{{route('about')}}">A Propos</a>
                     </li>

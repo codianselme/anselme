@@ -21,7 +21,7 @@
                     </p>
                     <div class="mt-sm-5 mt-4">
                         <a class="btn btn-primary btn-style mr-2" href="{{ route("contact") }}"> {{--Hire Me--}} Me Contacter</a>
-                        <a class="btn btn-outline-primary btn-style mr-2" href="#portfolio"> Mon Portfolio </a>
+                        <a class="btn btn-outline-primary btn-style mr-2" href="{{ route("portfolio") }}"> Mon Portfolio </a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10 mt-lg-0 mt-4">

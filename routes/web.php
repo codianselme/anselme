@@ -22,6 +22,7 @@ Route::get('contact/',  [AnselmeController::class, 'contact'])->name('contact');
 Route::get('about/',    [AnselmeController::class, 'about'])->name('about');
 Route::post('/envoi-message', [AnselmeController::class, 'sendMessage'])->name('send.message');
 Route::post('/s-abonner', [AnselmeController::class, 'souscribe'])->name('souscribe');
+Route::get('/portfolio', [AnselmeController::class, 'portfolio'])->name('portfolio');
 
 // Route::get('/', function () {
 //     return view('welcome');
